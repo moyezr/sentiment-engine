@@ -1,0 +1,42 @@
+
+==================================================
+FINAL RESULTS
+==================================================
+✅ Accuracy: 46.72%
+
+📊 Classification Report:
+                precision    recall  f1-score   support
+
+    Admiration       0.38      0.30      0.33        10
+     Amusement       0.57      0.80      0.67        10
+         Anger       0.29      0.40      0.33        10
+     Annoyance       0.00      0.00      0.00        10
+      Approval       0.25      0.30      0.27        10
+        Caring       0.71      0.50      0.59        10
+     Confusion       0.32      0.60      0.41        10
+     Curiosity       0.38      0.30      0.33        10
+        Desire       0.75      0.30      0.43        10
+Disappointment       0.14      0.20      0.17        10
+   Disapproval       0.31      0.50      0.38        10
+       Disgust       0.73      0.80      0.76        10
+ Embarrassment       0.86      0.60      0.71        10
+    Excitement       0.53      0.80      0.64        10
+          Fear       0.42      0.50      0.45        10
+     Gratitude       1.00      0.80      0.89        10
+         Grief       0.83      0.83      0.83         6
+           Joy       0.86      0.60      0.71        10
+          Love       0.82      0.90      0.86        10
+   Nervousness       0.78      0.70      0.74        10
+       Neutral       0.00      0.00      0.00        10
+      Optimism       0.19      0.40      0.26        10
+    ParseError       0.00      0.00      0.00         0
+         Pride       0.75      0.30      0.43        10
+   Realization       0.00      0.00      0.00        10
+        Relief       0.50      0.50      0.50         8
+       Remorse       0.88      0.70      0.78        10
+       Sadness       0.29      0.20      0.24        10
+      Surprise       0.36      0.40      0.38        10
+
+      accuracy                           0.47       274
+     macro avg       0.48      0.46      0.45       274
+  weighted avg       0.49      0.47      0.46       274
